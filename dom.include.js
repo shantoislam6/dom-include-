@@ -68,4 +68,3 @@
     //start the full functionality
     const $inc$ = new FileInluder().start();
 })();
-/*Coming soon A nice plugin from wild blood*/
